@@ -11,7 +11,7 @@ Note that there are several menu options. To begin, we have to put in text to de
 After you have inputted all options, please make the image by clicking "Create Artistic Encoding" button. Then you will see a preview of the drawing/text. The actual files themselves are in the folder in the location you have stated in the option. Some examples of what these may look like can be seen below:
 
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Morse%20Code.png)
-![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/QR%20Code.png)
+![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/8b2dc2959cd53e4bad37feb846fd6e4c5dbca66d/Example%20Images/QR%20Code.png)
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Chromatic%20Symphony%20Example.png)
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Cosmic%20Constellation%20Example.png)
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Blob%20Impressionism.png)
