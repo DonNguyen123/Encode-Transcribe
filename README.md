@@ -12,9 +12,9 @@ After you have inputted all options, please make the image by clicking "Create A
 
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Morse%20Code.png)
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/QR%20Code.png)
-![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Chromatic%20Symphony%20Example.png)
-![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Cosmic%20Constellation%20Example.png)
-![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Blob%20Impressionism.png)
+![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Chromatic%20Symphony%20Example.png)
+![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Cosmic%20Constellation%20Example.png)
+![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/2e0628730b9726ff019ea2d0ea353e87df3436f0/Example%20Images/Blob%20Impressionism.png)
 
 Now, to deocde the image/text, please click the decoder button, which is a button on the top right of the screen. This will give something like the image below:
 
