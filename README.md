@@ -21,3 +21,7 @@ Now, to deocde the image/text, please click the decoder button, which is a butto
 ![alt text](https://github.com/DonNguyen123/Encode-Transcribe/blob/5f884cb943637f2f9d08c7e5d0371c28bd67788d/Example%20Images/Decoder.png)
 
 To actually decode, please input the location of the image and the key in the "Select File" section. Then, please click the decode artwork to get the decoded text. Note that depending on the quality of the image, which is based on the size of the image, and whether the correct shapes and geometries are fitted correctly, the encoding may have errors, so please use at your own risk.
+
+If you like this project, please see my other projects, or visit my website at: 
+https://widget-hub.com
+
